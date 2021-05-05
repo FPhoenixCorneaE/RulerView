@@ -1,1 +1,1 @@
-rootProject.name = "VersionPlugin"
+rootProject.name = "versionPlugin"

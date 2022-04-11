@@ -19,8 +19,7 @@ object Deps {
     }
 
     object Kotlin {
-        const val stdlib = "org.jetbrains.kotlin:kotlin-stdlib:1.4.32"
-        const val testJunit = "org.jetbrains.kotlin:kotlin-test-junit:1.4.32"
+        const val testJunit = "org.jetbrains.kotlin:kotlin-test-junit:1.6.10"
         const val coroutinesCore = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.1"
         const val coroutinesAndroid = "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1"
     }
